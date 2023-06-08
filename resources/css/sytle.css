@@ -4,12 +4,26 @@ body{
     fornt-family: verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* HEADER */
 .header--main{
     fornt-weight: normal;
     fornt-size: 50px;
     color: white;
 }
+/* H2 */
+.header-2{
+    font-weight: 300;
+    font-size: 42px;
+    color : white;
+}
 
+/* H4 */
+.header4{
+    font-size:21px;
+    color: grey;
+}
+
+/* links */
 .link-main{
     fornt-size: 16px;
     color: aquamarine;
