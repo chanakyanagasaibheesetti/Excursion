@@ -3,3 +3,9 @@ body{
     text-align: center;
     fornt-family: verdana, Geneva, Tahoma, sans-serif;
 }
+
+.header--main{
+    fornt-weight: normal;
+    fornt-size: 50px;
+    color: white;
+}
